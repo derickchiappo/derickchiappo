@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and large clinical datasets 
 - I'm currently using R to analyse clinical datasets and microarray datasets
 - 🌱 I’m currently learning R to analyse RNA-Seq datasets
-- My [ORCID] (https://orcid.org/0000-0002-1721-3286)
+- My [ORCID] (http://orcid.org/0000-0002-1721-3286)
 
 <!---
 derickchiappo/derickchiappo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
